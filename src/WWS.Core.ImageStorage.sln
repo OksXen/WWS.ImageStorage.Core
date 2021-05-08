@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{C347DEDE-2AA7-4600-B983-04DA2B9AC741}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{42D025F3-DD5E-4FA8-B442-7C47E7F36B04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{129F21F5-D16B-4C83-90FA-1DFAF29AB0EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WWS.ImageStorage.Core", "WWS.ImageStorage.Core\WWS.ImageStorage.Core.csproj", "{63AC70AA-BE5C-4C4C-A111-EA658FEC8BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63AC70AA-BE5C-4C4C-A111-EA658FEC8BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AC70AA-BE5C-4C4C-A111-EA658FEC8BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AC70AA-BE5C-4C4C-A111-EA658FEC8BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AC70AA-BE5C-4C4C-A111-EA658FEC8BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63AC70AA-BE5C-4C4C-A111-EA658FEC8BDE} = {C347DEDE-2AA7-4600-B983-04DA2B9AC741}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E72C929-7366-46AA-B224-DCFD42BFAABD}
+	EndGlobalSection
+EndGlobal
