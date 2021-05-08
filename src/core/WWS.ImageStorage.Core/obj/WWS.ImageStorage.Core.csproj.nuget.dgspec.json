@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\Github\\WWS.Core.ImageStorage\\src\\core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core.csproj": {}
+    "D:\\Repositories\\Github\\WWS.ImageStorage.Core\\src\\core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core.csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\Github\\WWS.Core.ImageStorage\\src\\core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core.csproj": {
+    "D:\\Repositories\\Github\\WWS.ImageStorage.Core\\src\\core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\Github\\WWS.Core.ImageStorage\\src\\core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core.csproj",
+        "projectUniqueName": "D:\\Repositories\\Github\\WWS.ImageStorage.Core\\src\\core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core.csproj",
         "projectName": "WWS.ImageStorage.Core",
-        "projectPath": "D:\\Repositories\\Github\\WWS.Core.ImageStorage\\src\\core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core.csproj",
+        "projectPath": "D:\\Repositories\\Github\\WWS.ImageStorage.Core\\src\\core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core.csproj",
         "packagesPath": "C:\\Users\\FerdinandCodinera\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\Github\\WWS.Core.ImageStorage\\src\\core\\WWS.ImageStorage.Core\\WWS.ImageStorage.Core\\obj\\",
+        "outputPath": "D:\\Repositories\\Github\\WWS.ImageStorage.Core\\src\\core\\WWS.ImageStorage.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FerdinandCodinera\\AppData\\Roaming\\NuGet\\NuGet.Config",
