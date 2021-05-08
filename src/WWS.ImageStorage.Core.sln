@@ -11,6 +11,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{129F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWS.ImageStorage.Core", "core\WWS.ImageStorage.Core\WWS.ImageStorage.Core.csproj", "{25AD30B3-3D52-4BA6-8969-C351B161C1D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth.2.0", "core\OAuth.2.0\OAuth.2.0.csproj", "{938FA112-3D72-4942-8FE3-B6B4E9560461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth.2.0.Test", "tests\OAuth.2.0.Test\OAuth.2.0.Test.csproj", "{33663D96-831A-42FE-AC61-D1CF1FA8909A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WWS.ImageStorage.Core.Test", "tests\WWS.ImageStorage.Core.Test\WWS.ImageStorage.Core.Test.csproj", "{2001E604-CDEC-4EF3-B27C-6ADA3CD12CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.OAuth.2.0.Sample", "samples\Web.OAuth.2.0.Sample\Web.OAuth.2.0.Sample.csproj", "{DA5B612C-86AC-49AC-9824-945545EE431E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,12 +29,32 @@ Global
 		{25AD30B3-3D52-4BA6-8969-C351B161C1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25AD30B3-3D52-4BA6-8969-C351B161C1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25AD30B3-3D52-4BA6-8969-C351B161C1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938FA112-3D72-4942-8FE3-B6B4E9560461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938FA112-3D72-4942-8FE3-B6B4E9560461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938FA112-3D72-4942-8FE3-B6B4E9560461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938FA112-3D72-4942-8FE3-B6B4E9560461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33663D96-831A-42FE-AC61-D1CF1FA8909A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33663D96-831A-42FE-AC61-D1CF1FA8909A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33663D96-831A-42FE-AC61-D1CF1FA8909A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33663D96-831A-42FE-AC61-D1CF1FA8909A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2001E604-CDEC-4EF3-B27C-6ADA3CD12CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2001E604-CDEC-4EF3-B27C-6ADA3CD12CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2001E604-CDEC-4EF3-B27C-6ADA3CD12CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2001E604-CDEC-4EF3-B27C-6ADA3CD12CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5B612C-86AC-49AC-9824-945545EE431E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5B612C-86AC-49AC-9824-945545EE431E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5B612C-86AC-49AC-9824-945545EE431E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5B612C-86AC-49AC-9824-945545EE431E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{25AD30B3-3D52-4BA6-8969-C351B161C1D9} = {C347DEDE-2AA7-4600-B983-04DA2B9AC741}
+		{938FA112-3D72-4942-8FE3-B6B4E9560461} = {C347DEDE-2AA7-4600-B983-04DA2B9AC741}
+		{33663D96-831A-42FE-AC61-D1CF1FA8909A} = {42D025F3-DD5E-4FA8-B442-7C47E7F36B04}
+		{2001E604-CDEC-4EF3-B27C-6ADA3CD12CEC} = {42D025F3-DD5E-4FA8-B442-7C47E7F36B04}
+		{DA5B612C-86AC-49AC-9824-945545EE431E} = {129F21F5-D16B-4C83-90FA-1DFAF29AB0EE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4E72C929-7366-46AA-B224-DCFD42BFAABD}
